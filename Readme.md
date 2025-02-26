@@ -54,7 +54,18 @@ To run this project locally, follow these steps:
 - Hardhat or Truffle (for smart contract development)
 - Metamask or another Web3 wallet
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sleep2earn.git
+---
+
+### Roadmap
+- **Phase 1**: MVP with basic sleep tracking and token rewards.
+- **Phase 2**: Integrate zkTLS for secure data verification.
+- **Phase 3**: Expand token utility (e.g., partnerships with brands for rewards).
+- **Phase 4**: Launch on mainnet and scale the platform.
+
+---
+
+### Lisence
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
