@@ -9,12 +9,25 @@ Sleep2Earn is a Web3-based application designed to tackle the growing issue of s
 
 ---
 
+## Demo
+[Live Demo](https://twitter.com/YourTwitterHandle)
+
+## Project Screenshot
+
+
 ## 🛠 Problems Sleep2Earn Solves
 In today's fast-paced world, sleep deprivation has become a widespread issue, negatively impacting productivity, mental health, and overall quality of life. Traditional sleep-tracking apps often fail to motivate users to improve their sleep habits, and many compromise user privacy by collecting and sharing sensitive health data.
 
 Sleep2Earn addresses these challenges by:
 - **Gamifying sleep improvement** through token rewards.
 - **Ensuring data privacy** using zero-knowledge proofs (zkTLS) to verify sleep data without exposing raw metrics.
+
+---
+
+## Links
+- Website: 
+- Documentation:
+- Organization: 
 
 ---
 
@@ -64,13 +77,13 @@ Sleep2Earn addresses these challenges by:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
+<!-- ---
 
 ## Contact
 For questions or collaborations, feel free to reach out:
 - **Email**: your.email@example.com
 - **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Discord**: Join our [Discord Server](https://discord.gg/your-invite-link)
+- **Discord**: Join our [Discord Server](https://discord.gg/your-invite-link) -->
 
 ---
 
