@@ -2,11 +2,14 @@
 
 ![Sleep2Earn Banner](https://via.placeholder.com/1200x400) <!-- Ganti dengan gambar banner proyek Anda -->
 
+---
+
+## Description
 Sleep2Earn is a Web3-based application designed to tackle the growing issue of sleep deprivation in modern society. By incentivizing better sleep habits, Sleep2Earn aims to improve productivity, mental health, and overall well-being. Users are rewarded with tokens for meeting predefined sleep goals, all while ensuring their sensitive health data remains private and secure.
 
 ---
 
-## Problem Solved
+## 🛠 Problems Sleep2Earn Solves
 In today's fast-paced world, sleep deprivation has become a widespread issue, negatively impacting productivity, mental health, and overall quality of life. Traditional sleep-tracking apps often fail to motivate users to improve their sleep habits, and many compromise user privacy by collecting and sharing sensitive health data.
 
 Sleep2Earn addresses these challenges by:
@@ -15,18 +18,7 @@ Sleep2Earn addresses these challenges by:
 
 ---
 
-## Solution Offered
-Sleep2Earn connects users' sleep-tracking devices (e.g., smartwatches) to the app. Using zkTLS, the app verifies the authenticity of sleep data (e.g., duration, quality) without exposing sensitive information. Users are rewarded with tokens for meeting their sleep goals, which can be redeemed for discounts, gift cards, or other perks.
-
-### Key Features:
-- **Privacy-First Approach**: Sleep data is verified using zkTLS, ensuring user privacy.
-- **Token Rewards**: Earn tokens for achieving sleep goals.
-- **Gamification**: Stay motivated with a gamified experience.
-- **Web3 Integration**: Built on blockchain for transparency and security.
-
----
-
-## How It Works
+## 🔄 Flow
 1. **Connect Your Device**: Link your sleep-tracking device (e.g., smartwatch) to the Sleep2Earn app.
 2. **Set Sleep Goals**: Define your sleep duration and quality targets.
 3. **Earn Tokens**: Receive tokens for meeting your sleep goals, verified securely using zkTLS.
@@ -34,7 +26,7 @@ Sleep2Earn connects users' sleep-tracking devices (e.g., smartwatches) to the ap
 
 ---
 
-## Technology Stack
+## 💻 Technology Stack
 - **Blockchain**: Ethereum (or other EVM-compatible chains)
 - **Zero-Knowledge Proofs**: zkTLS for secure data verification
 - **Frontend**: React.js or Next.js
@@ -45,27 +37,43 @@ Sleep2Earn connects users' sleep-tracking devices (e.g., smartwatches) to the ap
 
 ---
 
-## Getting Started
-To run this project locally, follow these steps:
+## 🛣️ Roadmap (Q1-Q4 2025)
 
-### Prerequisites
-- Node.js (v16 or higher)
-- npm or yarn
-- Hardhat or Truffle (for smart contract development)
-- Metamask or another Web3 wallet
+### Q1 2025: MVP Development
+- Develop basic sleep tracking functionality.
+- Integrate zkTLS for secure data verification.
+- Launch a testnet version of the app.
+
+### Q2 2025: Token Economy
+- Implement token rewards system.
+- Develop smart contracts for token distribution.
+- Partner with sleep-tracking device manufacturers.
+
+### Q3 2025: Gamification and User Engagement
+- Add gamification features (e.g., leaderboards, challenges).
+- Expand token utility (e.g., partnerships with brands for rewards).
+- Launch on mainnet.
+
+### Q4 2025: Scaling and Expansion
+- Scale the platform to support more users.
+- Integrate additional sleep-tracking devices and APIs.
+- Explore cross-chain compatibility for broader adoption.
 
 ---
 
-### Roadmap
-- **Phase 1**: MVP with basic sleep tracking and token rewards.
-- **Phase 2**: Integrate zkTLS for secure data verification.
-- **Phase 3**: Expand token utility (e.g., partnerships with brands for rewards).
-- **Phase 4**: Launch on mainnet and scale the platform.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-### Lisence
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Contact
+For questions or collaborations, feel free to reach out:
+- **Email**: your.email@example.com
+- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- **Discord**: Join our [Discord Server](https://discord.gg/your-invite-link)
 
+---
 
-
+## Acknowledgments
+- Inspired by the growing need for better sleep habits and privacy-focused solutions.
+- Special thanks to the Web3 community for their support and resources.
