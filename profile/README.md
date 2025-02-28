@@ -1,6 +1,6 @@
 # Sleep2Earn - Web3 Sleep Incentivization App
 
-![Sleep2Earn Banner](https://via.placeholder.com/1200x400) <!-- Ganti dengan gambar banner proyek Anda -->
+![Sleep2Earn Banner](https://github.com/user-attachments/assets/b8a6535e-0ca8-4a12-b57f-2adbd9c4bea9)
 
 ---
 
@@ -10,7 +10,7 @@ Sleep2Earn is a Web3-based application designed to tackle the growing issue of s
 ---
 
 ## Demo
-[Live Demo](https://twitter.com/YourTwitterHandle)
+[Live Demo](https://snoorefi.syaad.dev)
 
 ## Project Screenshot
 
@@ -25,9 +25,9 @@ Sleep2Earn addresses these challenges by:
 ---
 
 ## Links
-- Website: 
-- Documentation:
-- Organization: 
+- Website: https://snoorefi.syaad.dev
+- Documentation: https://sleep2earn-organization.gitbook.io/sleep2earn
+- Organization: https://github.com/sleep2earndev
 
 ---
 
