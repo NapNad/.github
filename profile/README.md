@@ -1,6 +1,6 @@
 # Sleep2Earn - Web3 Sleep Incentivization App
 
-![Sleep2Earn Banner](https://github.com/user-attachments/assets/b8a6535e-0ca8-4a12-b57f-2adbd9c4bea9)
+![Sleep2Earn Banner](https://github.com/user-attachments/assets/75484128-e1e0-4640-bce9-6588f0734fd4)
 
 ---
 
