@@ -26,7 +26,7 @@ Sleep2Earn addresses these challenges by:
 
 ## Links
 - Website: https://snoorefi.syaad.dev
-- Documentation: https://sleep2earn-organization.gitbook.io/sleep2earn
+- Documentation: https://sleep2earn-organization.gitbook.io/napnad
 - Organization: https://github.com/sleep2earndev
 
 ---
