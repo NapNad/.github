@@ -1,6 +1,6 @@
 # Napnad - Web3 Sleep Incentivization App
 
-(![image](https://github.com/user-attachments/assets/9b4ae885-4b17-4ecb-8d7e-749cdde923d8)<!-- Ganti dengan gambar banner proyek Anda -->
+![image](https://github.com/user-attachments/assets/9b4ae885-4b17-4ecb-8d7e-749cdde923d8)<!-- Ganti dengan gambar banner proyek Anda -->
 
 ---
 
