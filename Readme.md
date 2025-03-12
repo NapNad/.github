@@ -1,6 +1,7 @@
 # Napnad - Web3 Sleep Incentivization App
 
-![Sleep2Earn Banner](https://via.placeholder.com/1200x400) <!-- Ganti dengan gambar banner proyek Anda -->
+![Sleep2Earn Banner](![image](https://github.com/user-attachments/assets/9b4ae885-4b17-4ecb-8d7e-749cdde923d8)
+) <!-- Ganti dengan gambar banner proyek Anda -->
 
 ---
 
@@ -32,9 +33,9 @@ Providing AI-powered sleep coaching to offer personalized recommendations and in
 ---
 
 ## Links
-- Website: 
-- Documentation:
-- Organization: 
+- Website: https://napnad.syaad.dev/
+- Documentation:https://sleep2earn-organization.gitbook.io/napnad
+- Organization: https://github.com/NapNad
 
 ---
 
