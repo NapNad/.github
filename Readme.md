@@ -1,11 +1,13 @@
-# Sleep2Earn - Web3 Sleep Incentivization App
+# Napnad - Web3 Sleep Incentivization App
 
 ![Sleep2Earn Banner](https://via.placeholder.com/1200x400) <!-- Ganti dengan gambar banner proyek Anda -->
 
 ---
 
 ## Description
-Sleep2Earn is a Web3-based application designed to tackle the growing issue of sleep deprivation in modern society. By incentivizing better sleep habits, Sleep2Earn aims to improve productivity, mental health, and overall well-being. Users are rewarded with tokens for meeting predefined sleep goals, all while ensuring their sensitive health data remains private and secure.
+Napnad is a Web3-based application designed to tackle the growing issue of sleep deprivation in modern society. By incentivizing better sleep habits, Napnad aims to improve productivity, mental health, and overall well-being. Users are rewarded with tokens for meeting predefined sleep goals, all while ensuring their sensitive health data remains private and secure.
+
+Additionally, Napnad features an AI Coach, an intelligent assistant designed to provide personalized sleep insights and recommendations. The AI Coach analyzes users' sleep patterns and offers actionable advice to help improve sleep quality, making Napnad more than just a reward-based system—it's a comprehensive sleep optimization platform.
 
 ---
 
@@ -15,12 +17,17 @@ Sleep2Earn is a Web3-based application designed to tackle the growing issue of s
 ## Project Screenshot
 
 
-## 🛠 Problems Sleep2Earn Solves
+## 🛠 Problems Napnad Solves
+
 In today's fast-paced world, sleep deprivation has become a widespread issue, negatively impacting productivity, mental health, and overall quality of life. Traditional sleep-tracking apps often fail to motivate users to improve their sleep habits, and many compromise user privacy by collecting and sharing sensitive health data.
 
-Sleep2Earn addresses these challenges by:
-- **Gamifying sleep improvement** through token rewards.
-- **Ensuring data privacy** using zero-knowledge proofs (zkTLS) to verify sleep data without exposing raw metrics.
+Napnad addresses these challenges by:
+
+Gamifying sleep improvement through token rewards.
+
+Ensuring data privacy using zero-knowledge proofs (zkTLS) to verify sleep data without exposing raw metrics.
+
+Providing AI-powered sleep coaching to offer personalized recommendations and insights.
 
 ---
 
@@ -31,16 +38,23 @@ Sleep2Earn addresses these challenges by:
 
 ---
 
-## 🔄 Flow
-1. **Connect Your Device**: Link your sleep-tracking device (e.g., smartwatch) to the Sleep2Earn app.
-2. **Set Sleep Goals**: Define your sleep duration and quality targets.
-3. **Earn Tokens**: Receive tokens for meeting your sleep goals, verified securely using zkTLS.
-4. **Redeem Rewards**: Use your tokens for discounts, gift cards, or other perks.
+##  Flow
+
+- Connect Your Device: Link your sleep-tracking device (e.g., smartwatch) to the Napnad app.
+
+- Set Sleep Goals: Define your sleep duration and quality targets.
+
+- Get AI Coaching: Receive personalized sleep recommendations from the AI Coach.
+
+- Earn Tokens: Receive tokens for meeting your sleep goals, verified securely using zkTLS.
+
+- Redeem Rewards: Use your tokens for discounts, gift cards, or other perks.
 
 ---
 
 ## 💻 Technology Stack
 - **Blockchain**: Ethereum (or other EVM-compatible chains)
+- **AI & Machine Learning: AI Coach for personalized sleep insights
 - **Zero-Knowledge Proofs**: zkTLS for secure data verification
 - **Frontend**: React.js or Next.js
 - **Backend**: Node.js, Express.js
